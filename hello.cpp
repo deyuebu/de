@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 using std::cout
 int main()
 {
     cout<<"Hello World";
-    cout <<"ÄãºÃ";
+    cout <<"ä½ å¥½";
     return 0;
 }
